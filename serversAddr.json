@@ -1,0 +1,10 @@
+{
+  "address": [
+    {
+      "addr": "localhost:1234"
+    },
+    {
+      "addr": "localhost:2345"
+    }
+  ]
+}
